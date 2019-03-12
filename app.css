@@ -36,6 +36,18 @@ h2 {
     font-size: 4rem;
 }
 
+.opacity-3 {
+    opacity: .3;
+}
+
+.opacity-5 {
+    opacity: .5;
+}
+
+.opacity-7 {
+    opacity: .7;
+}
+
 .info {
     font-size: 1.125rem;
     line-height: 2;
@@ -45,7 +57,7 @@ h2 {
     margin-top: 100px;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1350px) {
     #headingGroup h1 {
         font-size: 2.7rem;
     }
