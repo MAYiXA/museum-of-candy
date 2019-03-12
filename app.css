@@ -48,9 +48,10 @@ h2 {
     opacity: .7;
 }
 
-.info {
+.info-text {
     font-size: 1.125rem;
     line-height: 2;
+    color: #BC2933;
 }
 
 .content {
